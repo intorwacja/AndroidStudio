@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Intents</string>
+    <string name="tekst_1a">Hello World</string>
+    <string name="przycisk_1a">WYŚLIJ</string>
+    <string name="tekst_1b">Wprowadz tekst</string>
+    <string name="etykieta_2a">Otrzymano</string>
+    <string name="tekst_2a"></string>
+    <string name="etykieta_2b">Do wysłania</string>
+    <string name="tekst_2b"></string>
+    <string name="przycisk_2a">ODEŚLIJ</string>
+
+</resources>

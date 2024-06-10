@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+    <string name="tekst_f1_a">Tekst do fragmentu 2</string>
+    <string name="klawisz_f1_a">WYŚLIJ</string>
+</resources>
