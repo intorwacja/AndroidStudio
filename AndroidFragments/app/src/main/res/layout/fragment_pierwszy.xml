@@ -9,23 +9,31 @@
 
     <Button
         android:id="@+id/klawisz_f1a"
-        android:layout_height="72dp"
+        android:layout_width="193dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="329dp"
         android:width="190dp"
         android:text="@string/klawisz_f1_a"
         android:textSize="24sp"
-        tools:layout_editor_absoluteX="151dp"
-        tools:layout_editor_absoluteY="333dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tekst_f1a" />
 
     <EditText
         android:id="@+id/tekst_f1a"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:layout_marginBottom="149dp"
         android:ems="10"
         android:hint="@string/tekst_f1_a"
         android:inputType="text"
         android:textSize="24sp"
-        tools:layout_editor_absoluteX="190dp"
-        tools:layout_editor_absoluteY="132dp" />
+        app:layout_constraintBottom_toTopOf="@+id/klawisz_f1a"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
