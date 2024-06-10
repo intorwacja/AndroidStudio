@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sortowania intents</string>
+    <string name="bubble_sort">BubbleSort</string>
+    <string name="insertion_sort">InsertionSort</string>
+    <string name="merge_sort">MergeSort</string>
+    <string name="quick_sort">QuickSort</string>
+    <string name="input_data">Podaj dane do sortowania</string>
+</resources>
