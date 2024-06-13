@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsSortowanie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insertion_sort">Insertion sort</string>
+    <string name="bubble_sort">Bubble sort</string>
+    <string name="input_data">Wprowadź listę (np. "4,21,6,32,1")</string>
+</resources>
